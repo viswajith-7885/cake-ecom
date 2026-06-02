@@ -435,7 +435,7 @@ function ProductView() {
               "
             >
 
-              ₹ {product.price}
+              $ {product.price}
 
             </h2>
 

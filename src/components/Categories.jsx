@@ -539,7 +539,7 @@ function Categories() {
                         "
                       >
 
-                        ₹ {category.price}
+                        $ {category.price}
 
                       </p>
 
